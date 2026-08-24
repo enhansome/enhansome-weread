@@ -1,10 +1,737 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": "可以直接装进 Skill-aware Agent 的 Skill 包 —— 一次安装，到处可用。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gandli/weread-skills",
+          "description": "跨 runtime 官方 Skill 包的自动同步镜像。最简单的方式把官方 Skill 引入自己的 Agent。 记录 · 产物",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1239911524,
+            "language": null,
+            "last_commit": "2026-08-21T19:33:55Z",
+            "owner": "gandli",
+            "repo": "weread-skills",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChenyqThu/openclaw-weread-skill",
+          "description": "OpenClaw OpenClaw 标准移植版：书架、笔记、划线、阅读统计。 记录 · 产物",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1187593924,
+            "language": "Python",
+            "last_commit": "2026-03-20T22:56:45Z",
+            "owner": "ChenyqThu",
+            "repo": "openclaw-weread-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zhongyi-byte/openclaw-weread-skill",
+          "description": "OpenClaw 把划线、想法、书评导出到 Markdown / Obsidian 的 OpenClaw Skill。 记录 · 产物",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1151201544,
+            "language": "Python",
+            "last_commit": "2026-02-06T07:06:24Z",
+            "owner": "zhongyi-byte",
+            "repo": "openclaw-weread-skill",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "taxueseek/taxue-weread",
+          "description": "跨 runtime 官方 Skill 的 Agent 优化版：CLI + 本地缓存 + 合并命令，针对 Agent 上下文预算调优。 记录 · 产物",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1241594485,
+            "language": "Python",
+            "last_commit": "2026-05-28T08:45:17Z",
+            "owner": "taxueseek",
+            "repo": "taxue-weread",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jerlinn/jerlin-weread",
+          "description": "跨 runtime 官方 Skill 的重构版：让 Agent 通过 CLI 按需查询单个接口，不用每轮重读整个 Skill 文档。 记录 · 产物",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1240898181,
+            "language": "Shell",
+            "last_commit": "2026-05-17T15:20:53Z",
+            "owner": "jerlinn",
+            "repo": "jerlin-weread",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Skill 安装包"
+    },
+    {
+      "description": "在 Skill 基础能力之上做了一层「读书顾问 / 推荐 / 复盘」类工作流的项目。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "alchaincyf/huashu-weread",
+          "description": "Claude Code 花叔的「读书顾问」Skill。在官方 Skill 之上加了 4 个 workflow： / / / ，做书架 × 笔记交叉分析。 记录 · 产物",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1241454291,
+            "language": null,
+            "last_commit": "2026-05-17T12:12:06Z",
+            "owner": "alchaincyf",
+            "repo": "huashu-weread",
+            "stars": 140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "monsignorlaw1015/weread-report",
+          "description": "Skill 「你以为你在读书，其实书一直在读你」基于微信读书数据生成私人阅读自画像，从笔记里挖出真正的「你」。 记录 · 截图",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1242276241,
+            "language": null,
+            "last_commit": "2026-05-18T09:45:10Z",
+            "owner": "monsignorlaw1015",
+            "repo": "weread-report",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "viewer12/weread-mirror",
+          "description": "Claude Code 用官方 Skill 拉书架、统计和笔记，生成单文件 HTML 私人读书画像。 记录 · 截图",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1245513827,
+            "language": "HTML",
+            "last_commit": "2026-05-21T10:37:38Z",
+            "owner": "viewer12",
+            "repo": "weread-mirror",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kejixiaoliang/read-persona",
+          "description": "Codex Skill 基于微信读书官方 Skill，生成一份精美的 HTML 阅读人格画像报告。 记录 · 截图",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1246757455,
+            "language": "Python",
+            "last_commit": "2026-05-22T17:00:13Z",
+            "owner": "kejixiaoliang",
+            "repo": "read-persona",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Llxsfd/weread-review-web",
+          "description": "Web (FastAPI + Vue3) 微信读书划线复习与数据管理工具，基于官方 Skill API Key / Agent Gateway，内置 Edge-TTS 流式朗读（可选 BYOK AI 伴读）。 记录 · 产物",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1254429351,
+            "language": "Python",
+            "last_commit": "2026-05-31T04:09:57Z",
+            "owner": "Llxsfd",
+            "repo": "weread-review-web",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zephyrwang6/space-weread",
+          "description": "Skill 「space」主题读书 workflow，把书架 / 笔记包装成「太空舱内」式的私人阅读空间。 记录 · 截图",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1243037285,
+            "language": "Python",
+            "last_commit": "2026-05-20T01:25:31Z",
+            "owner": "SpaceZephyr",
+            "repo": "space-weread",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LearnPrompt/carl-weread",
+          "description": "Skill LearnPrompt 出品的 carl 风格读书顾问 workflow，基于官方 API Key 构建。 记录 · 产物",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1243503296,
+            "language": "Python",
+            "last_commit": "2026-07-10T16:40:04Z",
+            "owner": "LearnPrompt",
+            "repo": "carl-weread",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stefanxfy/weread-essay-skill",
+          "description": "Skill 把书架与笔记输入，生成读书 essay 的 Skill —— 基于官方 weread-skills 包。 记录 · 产物",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1243138238,
+            "language": null,
+            "last_commit": "2026-05-19T06:40:48Z",
+            "owner": "stefanxfy",
+            "repo": "weread-essay-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Eleven1111/weread-insight-skill",
+          "description": "Codex / Obsidian 阅读理解助手 Skill：用微信读书划线和批注推断困惑、解释段落，并沉淀为 Obsidian 理解卡片。 记录 · 产物",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1251226629,
+            "language": null,
+            "last_commit": "2026-06-01T00:38:36Z",
+            "owner": "Eleven1111",
+            "repo": "weread-insight-skill",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "工作流与助手"
+    },
+    {
+      "description": "封装 Agent Gateway 的 CLI 和 SDK —— 人类能用，其他工具也能调。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "shiquda/weread-cli",
+          "description": "Python 基于官方 API 的 CLI，附带 Agent Skill manifest。同时面向人与 Agent。 记录 · 产物",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1240724913,
+            "language": "TypeScript",
+            "last_commit": "2026-07-21T12:05:13Z",
+            "owner": "shiquda",
+            "repo": "weread-cli",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nlimpid/weread",
+          "description": "Rust 面向 LLM 友好的 CLI 和 Rust 库，封装微信读书 Agent Gateway。 记录 · 产物",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1241598687,
+            "language": "Rust",
+            "last_commit": "2026-05-17T15:37:23Z",
+            "owner": "nlimpid",
+            "repo": "weread",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ipfans/weread-cli",
+          "description": "Python 命令行客户端 + Claude Code 等 Agent 插件：搜书、管理书架、看划线笔记、阅读统计、推荐。 记录 · 产物",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1241431974,
+            "language": "Go",
+            "last_commit": "2026-07-03T07:43:04Z",
+            "owner": "ipfans",
+            "repo": "weread-cli",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ceelog/OpenWeRead",
+          "description": "TypeScript 官方 Skill 之上的 SDK + npm CLI ()：搜书、书架、阅读统计、笔记划线、公开点评、推荐、用户概况全覆盖，是目前覆盖最完整的 SDK 选项。 记录 · 产物",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1240717451,
+            "language": "TypeScript",
+            "last_commit": "2026-05-17T04:57:57Z",
+            "owner": "Ceelog",
+            "repo": "OpenWeRead",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lucis-yg/weread-skill-api",
+          "description": "Node.js / Express 把官方 weread-skills 封成 17 个 REST 接口的本地 API gateway（书架 / 笔记 / 划线 / 推荐 / 阅读统计）。配套前端见 weread-dashboard。 记录 · 产物",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1242510278,
+            "language": "JavaScript",
+            "last_commit": "2026-05-18T14:48:58Z",
+            "owner": "lucis-yg",
+            "repo": "weread-skill-api",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "marcus776957/weread-master",
+          "description": "Python 全功能微信读书 CLI + Agent Skill：书架、笔记/划线、阅读统计、推荐等（ + 官方 Agent Gateway）。 记录 · 产物",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1251293272,
+            "language": "Python",
+            "last_commit": "2026-05-27T13:14:35Z",
+            "owner": "marcus776957",
+            "repo": "weread-master",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "命令行与 SDK"
+    },
+    {
+      "description": "把 Agent Gateway 包装成 MCP 工具，给 Cursor、Claude Desktop、ChatGPT 等 MCP 客户端用。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "wong2/weread-mcp",
+          "description": "远程 MCP 基于 Agent Gateway + Bearer 鉴权的远程 MCP 服务。 记录 · 产物",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1241184747,
+            "language": "TypeScript",
+            "last_commit": "2026-05-23T03:41:57Z",
+            "owner": "wong2",
+            "repo": "mcp-servers",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xJogger/weread-mcp-worker",
+          "description": "Cloudflare Workers 部署在 Cloudflare Workers 上的单用户 WeRead MCP，面向 ChatGPT。 记录 · 产物",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1240595490,
+            "language": "TypeScript",
+            "last_commit": "2026-07-12T14:08:26Z",
+            "owner": "xJogger",
+            "repo": "weread-mcp-worker",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "MCP 服务"
+    },
+    {
+      "description": "从 Agent Gateway 拉数据，推到别的笔记工具里。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ZhongJiaqi/weread-to-obsidian",
+          "description": "Obsidian 把划线和想法转成 Obsidian 笔记，附 Dataview 友好的 frontmatter 和回跳微信读书的深链。 记录 · 产物",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1241253426,
+            "language": "Python",
+            "last_commit": "2026-08-06T12:52:12Z",
+            "owner": "ZhongJiaqi",
+            "repo": "weread-to-obsidian",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "uuavv/weread-notion-worker",
+          "description": "Notion 用 把书架和划线同步进 Notion 数据库。 记录 · 产物",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1240806652,
+            "language": "TypeScript",
+            "last_commit": "2026-07-24T12:10:08Z",
+            "owner": "uuavv",
+            "repo": "weread-notion-worker",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "huangcheng/weread-to-flomo",
+          "description": "flomo 把每条微信读书划线 / 想法作为独立的 flomo memo 导出，走 flomo MCP。 记录 · 产物",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1240417326,
+            "language": "JavaScript",
+            "last_commit": "2026-05-17T05:00:16Z",
+            "owner": "huangcheng",
+            "repo": "weread-to-flomo",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gnixner/weread-import",
+          "description": "Markdown / Obsidian 默认走官方 Gateway 把划线和想法导出为 Markdown，可写进 Obsidian vault 或任意本地目录（也支持 cookie fallback）。 记录 · 产物",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1184502302,
+            "language": "JavaScript",
+            "last_commit": "2026-05-16T15:06:47Z",
+            "owner": "gnixner",
+            "repo": "weread-import",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rayford295/rayford-knowledge-atlas",
+          "description": "Web / Obsidian 个人知识图谱：把微信读书阅读输入与论文、仓库和工作流等产出连接起来（基于 刷新）。 记录 · 截图",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1221014679,
+            "language": "JavaScript",
+            "last_commit": "2026-08-24T11:04:41Z",
+            "owner": "rayford295",
+            "repo": "rayford-knowledge-atlas",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yant2023/weread-obsidian",
+          "description": "Obsidian 把划线 / 想法导出到 Obsidian 笔记库，复刻官方 Skill 接口的 Python 实现。 记录 · 产物",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1243179817,
+            "language": null,
+            "last_commit": "2026-05-19T15:55:13Z",
+            "owner": "Yant2023",
+            "repo": "weread-obsidian",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chanity256/weread-export",
+          "description": "macOS / Markdown / Obsidian macOS 定时导出器：每天扫描已读完且有笔记的书，把划线、想法和书评写成 Obsidian 兼容 Markdown。 记录 · 产物",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1259302292,
+            "language": "Python",
+            "last_commit": "2026-06-04T11:26:35Z",
+            "owner": "chanity256",
+            "repo": "weread-export",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "a3100821009/weread-to-notion",
+          "description": "Python, Notion 将微信读书的书架、划线、想法、阅读统计数据同步到 Notion。 记录 · 产物",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1255962265,
+            "language": "HTML",
+            "last_commit": "2026-07-02T05:00:44Z",
+            "owner": "a3100821009",
+            "repo": "weread-to-notion",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "f1603206034/weread-notes",
+          "description": "GitHub + Notion / GitHub Actions 笔记同步到 GitHub repo + Notion 数据库，支持增量 / 全量 + 定时任务（GitHub Actions cron）。 记录 · 产物",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1242020720,
+            "language": "Python",
+            "last_commit": "2026-08-24T01:37:45Z",
+            "owner": "f-a8bfe3fa",
+            "repo": "weread-notes",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KevinChen1994/weread2notion",
+          "description": "Notion 微信读书 → Notion 同步工具，使用 wrk- API Key 鉴权。 记录 · 产物",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1242262530,
+            "language": "Python",
+            "last_commit": "2026-08-13T02:04:14Z",
+            "owner": "KevinChen1994",
+            "repo": "weread2notion",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chucan1/weread-to-getnote",
+          "description": "Get 笔记 Claude Code Skill，把微信读书划线和想法整理后导入 Get 笔记，并按知识库推荐归档。 记录 · 产物",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1252563787,
+            "language": null,
+            "last_commit": "2026-05-28T18:57:16Z",
+            "owner": "chucan1",
+            "repo": "weread-to-getnote",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TianLanhe/weread-readdata-for-tencent-doc",
+          "description": "腾讯文档智能表格 把书架数据 upsert 到腾讯文档智能表格的 Skill —— 配合腾讯文档 MCP 使用。 记录 · 产物",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1242783323,
+            "language": "Python",
+            "last_commit": "2026-05-19T09:19:53Z",
+            "owner": "TianLanhe",
+            "repo": "weread-readdata-for-tencent-doc",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TianLanhe/weread-readtime-for-tencent-doc",
+          "description": "腾讯文档智能表格 每日阅读时长 upsert 到腾讯文档智能表格的「阅读时长」工作表。同一作者的姊妹 Skill。 记录 · 产物",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1242783405,
+            "language": "Python",
+            "last_commit": "2026-05-19T02:58:08Z",
+            "owner": "TianLanhe",
+            "repo": "weread-readtime-for-tencent-doc",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TianLanhe/weread-readtime-for-lark",
+          "description": "飞书多维表格 (Base) 每日阅读时长 → 飞书多维表格 Base 的「阅读时长」表。配合 lark-cli 使用。 记录 · 产物",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1242783368,
+            "language": "Python",
+            "last_commit": "2026-05-19T02:58:05Z",
+            "owner": "TianLanhe",
+            "repo": "weread-readtime-for-lark",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "第三方同步"
+    },
+    {
+      "description": "把阅读数据渲染成桌面 widget、壁纸、屏保的可视化项目。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TinaDu-AI/reading-widget",
+          "description": "macOS (Übersicht) 微信读书阅读统计桌面挂件 —— 连续天数、今日 / 本月时长、当前在读、年度金句 —— 每 5 分钟刷新。明确定位为「官方 Skill 之上的一层渲染壳」。 记录 · 截图",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1241604633,
+            "language": "Python",
+            "last_commit": "2026-06-02T14:53:02Z",
+            "owner": "TinaDu-AI",
+            "repo": "reading-widget",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kalmaegi/weread-analyzer",
+          "description": "Web 基于微信读书官方 API Key 的阅读画像分析项目。 记录 · 截图",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1241219954,
+            "language": "TypeScript",
+            "last_commit": "2026-05-17T05:42:28Z",
+            "owner": "Kalmaegi",
+            "repo": "weread-analyzer",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AstrophelXD/WeReadAura",
+          "description": "Web 只读 dashboard，把书架、阅读时长、划线、推荐汇总成 neo-brutalism 风格界面。仅供个人学习使用。 记录 · 截图",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1240493469,
+            "language": "TypeScript",
+            "last_commit": "2026-05-20T12:51:52Z",
+            "owner": "AstrophelXD",
+            "repo": "WeReadAura",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "alexsowake/weread_personality_summery",
+          "description": "Web (EdgeOne) 用 DeepSeek AI 把你的笔记和划线生成「阅读人格」画像，不存储用户数据。 记录 · 产物",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1241733674,
+            "language": "HTML",
+            "last_commit": "2026-05-18T11:02:47Z",
+            "owner": "alexsowake",
+            "repo": "weread_personality_summery",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zzylanmengqingchuan/weread-tools",
+          "description": "Web 微信读书工具集：书单诚实报告 + 阅读人格画像。 记录 · 截图",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1241201048,
+            "language": "HTML",
+            "last_commit": "2026-05-17T04:50:48Z",
+            "owner": "zzylanmengqingchuan",
+            "repo": "weread-tools",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZiGmaX809/Weread_ReadTime_Heatmap",
+          "description": "Web (heatmap) ★ 把阅读时长画成 GitHub-style 热力图 —— 全年/全月每天读了多久一眼看见。视觉冲击最强的一个。 记录 · 截图",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 944001493,
+            "language": "Python",
+            "last_commit": "2026-07-30T03:32:49Z",
+            "owner": "ZiGmaX809",
+            "repo": "Weread_ReadTime_Heatmap",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SpaceTrave1/weread-deep-insights",
+          "description": "Web 「深度洞察」式阅读分析 —— 从书架 / 笔记里挖你的阅读 pattern。 记录 · 截图",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1243285803,
+            "language": "Python",
+            "last_commit": "2026-05-19T08:08:53Z",
+            "owner": "SpaceTrave1",
+            "repo": "weread-deep-insights",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LoloChak/weread-golden-quotes",
+          "description": "Python, Web 从微信读书笔记中提取金句，生成宣纸质感网页，每日随机展示并配思考问题。 记录 · 截图",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1249323215,
+            "language": "HTML",
+            "last_commit": "2026-05-25T16:02:29Z",
+            "owner": "LoloChak",
+            "repo": "weread-golden-quotes",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lucis-yg/weread-dashboard",
+          "description": "Vue 3 / Web 优雅的微信读书数据可视化 dashboard：书架 / 笔记 / 阅读统计。配合 lucis-yg/weread-skill-api 使用。 记录 · 产物",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1242469772,
+            "language": "Vue",
+            "last_commit": "2026-05-18T14:47:47Z",
+            "owner": "lucis-yg",
+            "repo": "weread-dashboard",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ktKongTong/wereto",
+          "description": "Cloudflare Workers 一键部署到 Cloudflare 的阅读数据页 —— 公开个人阅读数据的「homepage」式展示。 + 简洁封装。 记录 · 截图",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1243509191,
+            "language": "TypeScript",
+            "last_commit": "2026-08-04T14:16:15Z",
+            "owner": "ktKongTong",
+            "repo": "wereto",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "桌面挂件与可视化"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T09:32:03.772Z",
+    "last_updated": "2026-08-24T14:48:02.718Z",
     "original_repository": "BENZEMA216/awesome-weread",
     "original_repository_id": 1241612644,
-    "original_repository_sha": "e32626e95116de2c5a9872bd0732e9eae7f09c43",
+    "original_repository_sha": "f1c3715d3b7c15e62dc02911f954bea903b3f421",
     "enhanced_repository": "enhansome/enhansome-weread",
     "enhanced_repository_description": null,
     "title": "Awesome WeRead Skills with stars"
