@@ -93,10 +93,10 @@
             "archived": false,
             "id": 1241454291,
             "language": null,
-            "last_commit": "2026-05-17T12:12:06Z",
+            "last_commit": "2026-08-25T03:03:05Z",
             "owner": "alchaincyf",
             "repo": "huashu-weread",
-            "stars": 140
+            "stars": 141
           }
         },
         {
@@ -728,10 +728,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:48:02.718Z",
+    "last_updated": "2026-08-25T06:38:36.624Z",
     "original_repository": "BENZEMA216/awesome-weread",
     "original_repository_id": 1241612644,
-    "original_repository_sha": "f1c3715d3b7c15e62dc02911f954bea903b3f421",
+    "original_repository_sha": "c00de614cac89cef53b8952b6202016a2ced1393",
     "enhanced_repository": "enhansome/enhansome-weread",
     "enhanced_repository_description": null,
     "title": "Awesome WeRead Skills with stars"
