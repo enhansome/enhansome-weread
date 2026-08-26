@@ -330,7 +330,7 @@
             "archived": false,
             "id": 1241184747,
             "language": "TypeScript",
-            "last_commit": "2026-05-23T03:41:57Z",
+            "last_commit": "2026-08-25T12:02:12Z",
             "owner": "wong2",
             "repo": "mcp-servers",
             "stars": 2
@@ -489,7 +489,7 @@
             "last_commit": "2026-08-24T01:37:45Z",
             "owner": "f-a8bfe3fa",
             "repo": "weread-notes",
-            "stars": 5
+            "stars": 6
           }
         },
         {
@@ -728,10 +728,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T09:21:21.798Z",
+    "last_updated": "2026-08-26T09:26:38.766Z",
     "original_repository": "BENZEMA216/awesome-weread",
     "original_repository_id": 1241612644,
-    "original_repository_sha": "4ad4443215afefad1aac2353f9953923a4d7fdca",
+    "original_repository_sha": "82559c86a52712d817b3420872d31616f9dd064f",
     "enhanced_repository": "enhansome/enhansome-weread",
     "enhanced_repository_description": null,
     "title": "Awesome WeRead Skills with stars"
