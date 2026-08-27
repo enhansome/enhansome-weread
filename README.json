@@ -728,10 +728,17 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T09:26:38.766Z",
-    "original_repository": "BENZEMA216/awesome-weread",
-    "original_repository_id": 1241612644,
-    "original_repository_sha": "82559c86a52712d817b3420872d31616f9dd064f",
+    "last_updated": "2026-08-27T12:15:22.774Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 1241612644,
+      "language": "JavaScript",
+      "last_commit": "2026-08-26T13:01:20Z",
+      "owner": "BENZEMA216",
+      "repo": "awesome-weread",
+      "stars": 59
+    },
+    "original_repository_sha": "43f3bde639247a23a1af619650eb7a48130d6350",
     "enhanced_repository": "enhansome/enhansome-weread",
     "enhanced_repository_description": null,
     "title": "Awesome WeRead Skills with stars"
