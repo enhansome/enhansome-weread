@@ -16,7 +16,8 @@
             "owner": "gandli",
             "repo": "weread-skills",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T20:26:08.481Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "ChenyqThu",
             "repo": "openclaw-weread-skill",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T20:26:08.481Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "zhongyi-byte",
             "repo": "openclaw-weread-skill",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T20:26:08.481Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "taxueseek",
             "repo": "taxue-weread",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T20:26:08.481Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "jerlinn",
             "repo": "jerlin-weread",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T20:26:08.481Z"
         }
       ],
       "title": "Skill 安装包"
@@ -97,7 +102,8 @@
             "owner": "alchaincyf",
             "repo": "huashu-weread",
             "stars": 142
-          }
+          },
+          "first_seen": "2026-08-28T20:26:08.481Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "monsignorlaw1015",
             "repo": "weread-report",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T20:26:08.481Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "viewer12",
             "repo": "weread-mirror",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T20:26:08.481Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "kejixiaoliang",
             "repo": "read-persona",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T20:26:08.481Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "Llxsfd",
             "repo": "weread-review-web",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T20:26:08.481Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "SpaceZephyr",
             "repo": "space-weread",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T20:26:08.481Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "LearnPrompt",
             "repo": "carl-weread",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T20:26:08.481Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "stefanxfy",
             "repo": "weread-essay-skill",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T20:26:08.481Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "Eleven1111",
             "repo": "weread-insight-skill",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T20:26:08.481Z"
         }
       ],
       "title": "工作流与助手"
@@ -238,7 +252,8 @@
             "owner": "shiquda",
             "repo": "weread-cli",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T20:26:08.481Z"
         },
         {
           "node_type": "item",
@@ -253,7 +268,8 @@
             "owner": "nlimpid",
             "repo": "weread",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T20:26:08.481Z"
         },
         {
           "node_type": "item",
@@ -268,7 +284,8 @@
             "owner": "ipfans",
             "repo": "weread-cli",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T20:26:08.481Z"
         },
         {
           "node_type": "item",
@@ -283,7 +300,8 @@
             "owner": "Ceelog",
             "repo": "OpenWeRead",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T20:26:08.481Z"
         },
         {
           "node_type": "item",
@@ -298,7 +316,8 @@
             "owner": "lucis-yg",
             "repo": "weread-skill-api",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T20:26:08.481Z"
         },
         {
           "node_type": "item",
@@ -313,7 +332,8 @@
             "owner": "marcus776957",
             "repo": "weread-master",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T20:26:08.481Z"
         }
       ],
       "title": "命令行与 SDK"
@@ -334,7 +354,8 @@
             "owner": "wong2",
             "repo": "mcp-servers",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T20:26:08.481Z"
         },
         {
           "node_type": "item",
@@ -349,7 +370,8 @@
             "owner": "xJogger",
             "repo": "weread-mcp-worker",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T20:26:08.481Z"
         }
       ],
       "title": "MCP 服务"
@@ -370,7 +392,8 @@
             "owner": "ZhongJiaqi",
             "repo": "weread-to-obsidian",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T20:26:08.481Z"
         },
         {
           "node_type": "item",
@@ -385,7 +408,8 @@
             "owner": "uuavv",
             "repo": "weread-notion-worker",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T20:26:08.481Z"
         },
         {
           "node_type": "item",
@@ -400,7 +424,8 @@
             "owner": "huangcheng",
             "repo": "weread-to-flomo",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T20:26:08.481Z"
         },
         {
           "node_type": "item",
@@ -415,7 +440,8 @@
             "owner": "gnixner",
             "repo": "weread-import",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T20:26:08.481Z"
         },
         {
           "node_type": "item",
@@ -430,7 +456,8 @@
             "owner": "rayford295",
             "repo": "rayford-knowledge-atlas",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T20:26:08.481Z"
         },
         {
           "node_type": "item",
@@ -445,7 +472,8 @@
             "owner": "Yant2023",
             "repo": "weread-obsidian",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T20:26:08.481Z"
         },
         {
           "node_type": "item",
@@ -460,7 +488,8 @@
             "owner": "chanity256",
             "repo": "weread-export",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T20:26:08.481Z"
         },
         {
           "node_type": "item",
@@ -475,7 +504,8 @@
             "owner": "a3100821009",
             "repo": "weread-to-notion",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T20:26:08.481Z"
         },
         {
           "node_type": "item",
@@ -490,7 +520,8 @@
             "owner": "f-a8bfe3fa",
             "repo": "weread-notes",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T20:26:08.481Z"
         },
         {
           "node_type": "item",
@@ -505,7 +536,8 @@
             "owner": "KevinChen1994",
             "repo": "weread2notion",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T20:26:08.481Z"
         },
         {
           "node_type": "item",
@@ -520,7 +552,8 @@
             "owner": "chucan1",
             "repo": "weread-to-getnote",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T20:26:08.481Z"
         },
         {
           "node_type": "item",
@@ -535,7 +568,8 @@
             "owner": "TianLanhe",
             "repo": "weread-readdata-for-tencent-doc",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T20:26:08.481Z"
         },
         {
           "node_type": "item",
@@ -550,7 +584,8 @@
             "owner": "TianLanhe",
             "repo": "weread-readtime-for-tencent-doc",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T20:26:08.481Z"
         },
         {
           "node_type": "item",
@@ -565,7 +600,8 @@
             "owner": "TianLanhe",
             "repo": "weread-readtime-for-lark",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T20:26:08.481Z"
         }
       ],
       "title": "第三方同步"
@@ -586,7 +622,8 @@
             "owner": "TinaDu-AI",
             "repo": "reading-widget",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T20:26:08.481Z"
         },
         {
           "node_type": "item",
@@ -601,7 +638,8 @@
             "owner": "Kalmaegi",
             "repo": "weread-analyzer",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T20:26:08.481Z"
         },
         {
           "node_type": "item",
@@ -616,7 +654,8 @@
             "owner": "AstrophelXD",
             "repo": "WeReadAura",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T20:26:08.481Z"
         },
         {
           "node_type": "item",
@@ -631,7 +670,8 @@
             "owner": "alexsowake",
             "repo": "weread_personality_summery",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T20:26:08.481Z"
         },
         {
           "node_type": "item",
@@ -646,7 +686,8 @@
             "owner": "zzylanmengqingchuan",
             "repo": "weread-tools",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T20:26:08.481Z"
         },
         {
           "node_type": "item",
@@ -661,7 +702,8 @@
             "owner": "ZiGmaX809",
             "repo": "Weread_ReadTime_Heatmap",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T20:26:08.481Z"
         },
         {
           "node_type": "item",
@@ -676,7 +718,8 @@
             "owner": "SpaceTrave1",
             "repo": "weread-deep-insights",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T20:26:08.481Z"
         },
         {
           "node_type": "item",
@@ -691,7 +734,8 @@
             "owner": "LoloChak",
             "repo": "weread-golden-quotes",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T20:26:08.481Z"
         },
         {
           "node_type": "item",
@@ -706,7 +750,8 @@
             "owner": "lucis-yg",
             "repo": "weread-dashboard",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T20:26:08.481Z"
         },
         {
           "node_type": "item",
@@ -721,24 +766,25 @@
             "owner": "ktKongTong",
             "repo": "wereto",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T20:26:08.481Z"
         }
       ],
       "title": "桌面挂件与可视化"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:16:45.933Z",
+    "last_updated": "2026-08-28T20:26:08.481Z",
     "original_repository_info": {
       "archived": false,
       "id": 1241612644,
       "language": "JavaScript",
-      "last_commit": "2026-08-26T13:01:20Z",
+      "last_commit": "2026-08-28T10:46:25Z",
       "owner": "BENZEMA216",
       "repo": "awesome-weread",
       "stars": 59
     },
-    "original_repository_sha": "43f3bde639247a23a1af619650eb7a48130d6350",
+    "original_repository_sha": "5806dfe177907b81aab998f43dfe7642f6990ca4",
     "enhanced_repository": "enhansome/enhansome-weread",
     "enhanced_repository_description": null,
     "title": "Awesome WeRead Skills with stars"
