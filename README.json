@@ -10,12 +10,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official WeRead Agent Skills collection | 微信读书官方 Agent Skills 集合，自动同步",
+            "homepage": "https://skills.sh/gandli/weread-skills",
             "id": 1239911524,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-21T19:33:55Z",
+            "open_issues": 0,
             "owner": "gandli",
             "repo": "weread-skills",
-            "stars": 11
+            "stars": 12,
+            "topics": [
+              "agent-skills",
+              "ai-assistant",
+              "claude",
+              "weread"
+            ]
           },
           "first_seen": "2026-08-28T20:26:08.481Z"
         },
@@ -26,12 +36,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenClaw skill for 微信读书 (WeRead) - fetch bookshelf, notes, highlights and reading stats",
+            "homepage": null,
             "id": 1187593924,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-20T22:56:45Z",
+            "open_issues": 0,
             "owner": "ChenyqThu",
             "repo": "openclaw-weread-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:08.481Z"
         },
@@ -42,12 +57,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信读书笔记导出 OpenClaw Skill - 自动导出标注、想法、书评到 Markdown/Obsidian",
+            "homepage": null,
             "id": 1151201544,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-02-06T07:06:24Z",
+            "open_issues": 0,
             "owner": "zhongyi-byte",
             "repo": "openclaw-weread-skill",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:08.481Z"
         },
@@ -58,12 +78,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信读书官方 Skill 的 Agent 优化版，CLI 版，为 Agent 环境量身打造",
+            "homepage": null,
             "id": 1241594485,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-05-28T08:45:17Z",
+            "open_issues": 0,
             "owner": "taxueseek",
             "repo": "taxue-weread",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:08.481Z"
         },
@@ -74,12 +99,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1240898181,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-05-17T15:20:53Z",
+            "open_issues": 0,
             "owner": "jerlinn",
             "repo": "jerlin-weread",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:08.481Z"
         }
@@ -96,12 +126,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信读书高阶顾问 · 在官方 weread skill 之上加一层「读书顾问的工作流」· 书架+笔记交叉分析 · 4 个 workflow (advisor/path/alchemy/review) · Made by 花叔",
+            "homepage": null,
             "id": 1241454291,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-25T03:03:05Z",
+            "open_issues": 1,
             "owner": "alchaincyf",
             "repo": "huashu-weread",
-            "stars": 142
+            "stars": 142,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:08.481Z"
         },
@@ -112,12 +147,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "你以为你在读书，其实书一直在读你。基于微信读书数据生成私人阅读自画像。",
+            "homepage": null,
             "id": 1242276241,
             "language": null,
+            "license": null,
             "last_commit": "2026-05-18T09:45:10Z",
+            "open_issues": 0,
             "owner": "monsignorlaw1015",
             "repo": "weread-report",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:08.481Z"
         },
@@ -128,12 +168,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1245513827,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-05-21T10:37:38Z",
+            "open_issues": 0,
             "owner": "viewer12",
             "repo": "weread-mirror",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:08.481Z"
         },
@@ -144,12 +189,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " Generate a polished HTML reading-persona report from WeRead data. Use when the user asks to analyze their reading personality, reading persona, reading profile, reading temperament, reading habits, WeRead identity, bookish self.",
+            "homepage": null,
             "id": 1246757455,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-05-22T17:00:13Z",
+            "open_issues": 0,
             "owner": "kejixiaoliang",
             "repo": "read-persona",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:08.481Z"
         },
@@ -160,12 +210,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信读书复习系统 - 基于微信读书的skill，由FastAPI 和 Vue3 构建。",
+            "homepage": null,
             "id": 1254429351,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-31T04:09:57Z",
+            "open_issues": 0,
             "owner": "Llxsfd",
             "repo": "weread-review-web",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:08.481Z"
         },
@@ -176,12 +231,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "三个微信读书 Claude Code Skill：导出 / 分析 / 教练（推荐+引用+每日回顾）",
+            "homepage": null,
             "id": 1243037285,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-20T01:25:31Z",
+            "open_issues": 0,
             "owner": "SpaceZephyr",
             "repo": "space-weread",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:08.481Z"
         },
@@ -192,12 +252,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信读书行动型阅读教练：根据当前问题，推荐一本书里的今天一小节，并把阅读变成行动卡。",
+            "homepage": null,
             "id": 1243503296,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-07-10T16:40:04Z",
+            "open_issues": 0,
             "owner": "LearnPrompt",
             "repo": "carl-weread",
-            "stars": 24
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:08.481Z"
         },
@@ -208,12 +273,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信读书笔记读后感生成",
+            "homepage": null,
             "id": 1243138238,
             "language": null,
+            "license": null,
             "last_commit": "2026-05-19T06:40:48Z",
+            "open_issues": 0,
             "owner": "stefanxfy",
             "repo": "weread-essay-skill",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:08.481Z"
         },
@@ -224,12 +294,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1251226629,
             "language": null,
+            "license": null,
             "last_commit": "2026-06-01T00:38:36Z",
+            "open_issues": 0,
             "owner": "Eleven1111",
             "repo": "weread-insight-skill",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:08.481Z"
         }
@@ -246,12 +321,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信读书 CLI / WeRead CLI: 基于官方支持 API，面向人类与 AI Agent 的书架、笔记、划线、书评、阅读统计和推荐工具。Official API-based WeRead command-line tool with Agent Skill support.",
+            "homepage": null,
             "id": 1240724913,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-07-21T12:05:13Z",
+            "open_issues": 0,
             "owner": "shiquda",
             "repo": "weread-cli",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "agent",
+              "agent-skill",
+              "books",
+              "claude-code",
+              "cli",
+              "codex",
+              "highlights",
+              "notes",
+              "openclaw",
+              "reading",
+              "skill",
+              "typescript",
+              "weread"
+            ]
           },
           "first_seen": "2026-08-28T20:26:08.481Z"
         },
@@ -262,12 +356,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LLM-friendly CLI and Rust library for WeRead (微信读书) Agent Gateway",
+            "homepage": "https://github.com/nlimpid/weread",
             "id": 1241598687,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-17T15:37:23Z",
+            "open_issues": 0,
             "owner": "nlimpid",
             "repo": "weread",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:08.481Z"
         },
@@ -278,12 +377,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信读书命令行客户端 — 搜索书籍、管理书架、查看笔记划线、浏览书评、阅读统计、发现推荐好书。",
+            "homepage": null,
             "id": 1241431974,
             "language": "Go",
+            "license": null,
             "last_commit": "2026-07-03T07:43:04Z",
+            "open_issues": 2,
             "owner": "ipfans",
             "repo": "weread-cli",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "cli",
+              "weread"
+            ]
           },
           "first_seen": "2026-08-28T20:26:08.481Z"
         },
@@ -294,12 +401,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信读书 Skills & API SDK & Cli",
+            "homepage": "https://weread.qq.com/r/weread-skills",
             "id": 1240717451,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-05-17T04:57:57Z",
+            "open_issues": 0,
             "owner": "Ceelog",
             "repo": "OpenWeRead",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:08.481Z"
         },
@@ -310,12 +422,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "基于微信读书weread-skills的api服务 - Node.js + Express",
+            "homepage": null,
             "id": 1242510278,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-05-18T14:48:58Z",
+            "open_issues": 0,
             "owner": "lucis-yg",
             "repo": "weread-skill-api",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:08.481Z"
         },
@@ -326,12 +443,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信读书全功能 AI 助手 Skill，支持所有主流 Coding Agent  ",
+            "homepage": null,
             "id": 1251293272,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-05-27T13:14:35Z",
+            "open_issues": 0,
             "owner": "marcus776957",
             "repo": "weread-master",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:08.481Z"
         }
@@ -348,12 +470,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Remote MCP servers",
+            "homepage": null,
             "id": 1241184747,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-08-25T12:02:12Z",
+            "open_issues": 0,
             "owner": "wong2",
             "repo": "mcp-servers",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:08.481Z"
         },
@@ -364,12 +491,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Single-user WeRead MCP server for ChatGPT on Cloudflare Workers",
+            "homepage": null,
             "id": 1240595490,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-12T14:08:26Z",
+            "open_issues": 0,
             "owner": "xJogger",
             "repo": "weread-mcp-worker",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:08.481Z"
         }
@@ -386,12 +518,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WeRead highlights & notes → Obsidian: chapter-structured notes, drift-aware sync, deep links back to the app. Reread your best highlights anytime.",
+            "homepage": null,
             "id": 1241253426,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-06T12:52:12Z",
+            "open_issues": 0,
             "owner": "ZhongJiaqi",
             "repo": "weread-to-obsidian",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "cli",
+              "markdown",
+              "note-taking",
+              "obsidian",
+              "personal-knowledge-management",
+              "python",
+              "reading-notes",
+              "wechat-reading",
+              "weread",
+              "zettelkasten"
+            ]
           },
           "first_seen": "2026-08-28T20:26:08.481Z"
         },
@@ -402,12 +550,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信读书同步到notion",
+            "homepage": null,
             "id": 1240806652,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-07-24T12:10:08Z",
+            "open_issues": 0,
             "owner": "uuavv",
             "repo": "weread-notion-worker",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:08.481Z"
         },
@@ -418,12 +571,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "把微信读书的划线与想法导出为独立 flomo memo 的 Agent Skill / Export WeRead highlights and thoughts to flomo via flomo MCP",
+            "homepage": null,
             "id": 1240417326,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-05-17T05:00:16Z",
+            "open_issues": 0,
             "owner": "huangcheng",
             "repo": "weread-to-flomo",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "agent-skill",
+              "claude",
+              "claude-code",
+              "flomo",
+              "mcp",
+              "skill",
+              "weread"
+            ]
           },
           "first_seen": "2026-08-28T20:26:08.481Z"
         },
@@ -434,12 +600,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "将微信读书的划线与想法导出为 Markdown 文件，可直接写入 Obsidian vault 或任意本地目录。",
+            "homepage": null,
             "id": 1184502302,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-05-16T15:06:47Z",
+            "open_issues": 0,
             "owner": "gnixner",
             "repo": "weread-import",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:08.481Z"
         },
@@ -450,12 +621,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Input-output knowledge graph for Yifan Yang's reading inputs, Scholar outputs, papers, repositories, and workflows.",
+            "homepage": "https://rayford295.github.io/rayford-knowledge-atlas/",
             "id": 1221014679,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T11:04:41Z",
+            "open_issues": 0,
             "owner": "rayford295",
             "repo": "rayford-knowledge-atlas",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "google-scholar",
+              "knowledge-graph",
+              "publications",
+              "reading-notes",
+              "weread"
+            ]
           },
           "first_seen": "2026-08-28T20:26:08.481Z"
         },
@@ -466,12 +648,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信读书笔记导出助手 - 将微信读书笔记导出为 Obsidian 兼容的 Markdown 格式",
+            "homepage": null,
             "id": 1243179817,
             "language": null,
+            "license": null,
             "last_commit": "2026-05-19T15:55:13Z",
+            "open_issues": 0,
             "owner": "Yant2023",
             "repo": "weread-obsidian",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:08.481Z"
         },
@@ -482,12 +669,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信读书笔记自动导出工具 - 每日自动导出划线和笔记到 Obsidian 兼容的 Markdown 文件",
+            "homepage": null,
             "id": 1259302292,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-06-04T11:26:35Z",
+            "open_issues": 0,
             "owner": "chanity256",
             "repo": "weread-export",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:08.481Z"
         },
@@ -498,12 +690,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信读书",
+            "homepage": null,
             "id": 1255962265,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-07-02T05:00:44Z",
+            "open_issues": 0,
             "owner": "a3100821009",
             "repo": "weread-to-notion",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:08.481Z"
         },
@@ -514,12 +711,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1242020720,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-24T01:37:45Z",
+            "open_issues": 0,
             "owner": "f-a8bfe3fa",
             "repo": "weread-notes",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:08.481Z"
         },
@@ -530,12 +732,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1242262530,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-13T02:04:14Z",
+            "open_issues": 0,
             "owner": "KevinChen1994",
             "repo": "weread2notion",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:08.481Z"
         },
@@ -546,12 +753,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信读书笔记一键导入 Get 笔记 — Claude Code Skill",
+            "homepage": null,
             "id": 1252563787,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-05-28T18:57:16Z",
+            "open_issues": 0,
             "owner": "chucan1",
             "repo": "weread-to-getnote",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:08.481Z"
         },
@@ -562,12 +774,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "weread-readdata-for-tencent-doc skill",
+            "homepage": null,
             "id": 1242783323,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-19T09:19:53Z",
+            "open_issues": 0,
             "owner": "TianLanhe",
             "repo": "weread-readdata-for-tencent-doc",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:08.481Z"
         },
@@ -578,12 +795,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "weread-readtime-for-tencent-doc skill",
+            "homepage": null,
             "id": 1242783405,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-19T02:58:08Z",
+            "open_issues": 0,
             "owner": "TianLanhe",
             "repo": "weread-readtime-for-tencent-doc",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:08.481Z"
         },
@@ -594,12 +816,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "weread-readtime-for-lark skill",
+            "homepage": null,
             "id": 1242783368,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-19T02:58:05Z",
+            "open_issues": 0,
             "owner": "TianLanhe",
             "repo": "weread-readtime-for-lark",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:08.481Z"
         }
@@ -616,12 +843,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "macOS desktop widget for WeRead reading stats. Streak, today/month time, current book, year quote — all on your wallpaper via Übersicht.",
+            "homepage": null,
             "id": 1241604633,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-06-02T14:53:02Z",
+            "open_issues": 0,
             "owner": "TinaDu-AI",
             "repo": "reading-widget",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:08.481Z"
         },
@@ -632,12 +864,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "基于微信读书官方提供的api key分析阅读画像的项目",
+            "homepage": null,
             "id": 1241219954,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-17T05:42:28Z",
+            "open_issues": 0,
             "owner": "Kalmaegi",
             "repo": "weread-analyzer",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:08.481Z"
         },
@@ -648,12 +885,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1240493469,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-05-20T12:51:52Z",
+            "open_issues": 0,
             "owner": "AstrophelXD",
             "repo": "WeReadAura",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:08.481Z"
         },
@@ -664,12 +906,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信读书人格画像",
+            "homepage": "https://wereadwave.cn",
             "id": 1241733674,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-05-18T11:02:47Z",
+            "open_issues": 0,
             "owner": "alexsowake",
             "repo": "weread_personality_summery",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:08.481Z"
         },
@@ -680,12 +927,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信读书工具集：书单诚实报告 & 阅读人格画像",
+            "homepage": null,
             "id": 1241201048,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-05-17T04:50:48Z",
+            "open_issues": 0,
             "owner": "zzylanmengqingchuan",
             "repo": "weread-tools",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:08.481Z"
         },
@@ -696,12 +948,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 944001493,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-07-30T03:32:49Z",
+            "open_issues": 0,
             "owner": "ZiGmaX809",
             "repo": "Weread_ReadTime_Heatmap",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:08.481Z"
         },
@@ -712,12 +969,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WeRead personal data deep reading profile generator",
+            "homepage": null,
             "id": 1243285803,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-05-19T08:08:53Z",
+            "open_issues": 0,
             "owner": "SpaceTrave1",
             "repo": "weread-deep-insights",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:08.481Z"
         },
@@ -728,12 +990,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📖 微信读书金句网页生成器 — 从你的读书笔记中提取每日金句，生成宣纸质感的人文风网页",
+            "homepage": null,
             "id": 1249323215,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-05-25T16:02:29Z",
+            "open_issues": 0,
             "owner": "LoloChak",
             "repo": "weread-golden-quotes",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:08.481Z"
         },
@@ -744,12 +1011,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信读书weread-skills接口前端展示",
+            "homepage": null,
             "id": 1242469772,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2026-05-18T14:47:47Z",
+            "open_issues": 0,
             "owner": "lucis-yg",
             "repo": "weread-dashboard",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:08.481Z"
         },
@@ -760,12 +1032,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://wereto.koft.fun",
             "id": 1243509191,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-08-04T14:16:15Z",
+            "open_issues": 3,
             "owner": "ktKongTong",
             "repo": "wereto",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:08.481Z"
         }
@@ -774,17 +1051,33 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:26:08.481Z",
+    "last_updated": "2026-08-29T05:05:29.105Z",
     "original_repository_info": {
       "archived": false,
+      "description": "基于微信读书官方 Agent Skill 的二创项目精选 · Curated projects built on WeRead's official Agent Skill (released 2026-05-17)",
+      "homepage": null,
       "id": 1241612644,
       "language": "JavaScript",
-      "last_commit": "2026-08-28T10:46:25Z",
+      "license": "NOASSERTION",
+      "last_commit": "2026-08-28T22:01:12Z",
+      "open_issues": 2,
       "owner": "BENZEMA216",
       "repo": "awesome-weread",
-      "stars": 59
+      "stars": 59,
+      "topics": [
+        "agent-skills",
+        "awesome",
+        "awesome-list",
+        "claude-skills",
+        "flomo",
+        "mcp",
+        "mcp-server",
+        "obsidian",
+        "wechat-reading",
+        "weread"
+      ]
     },
-    "original_repository_sha": "5806dfe177907b81aab998f43dfe7642f6990ca4",
+    "original_repository_sha": "a9ffe0845e43976897eefcbc6fa0d39590d3b67f",
     "enhanced_repository": "enhansome/enhansome-weread",
     "enhanced_repository_description": null,
     "title": "Awesome WeRead Skills with stars"
