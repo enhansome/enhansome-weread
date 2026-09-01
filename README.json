@@ -135,7 +135,7 @@
             "open_issues": 1,
             "owner": "alchaincyf",
             "repo": "huashu-weread",
-            "stars": 142,
+            "stars": 143,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:08.481Z"
@@ -626,7 +626,7 @@
             "id": 1221014679,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-30T16:44:36Z",
+            "last_commit": "2026-08-31T17:41:49Z",
             "open_issues": 0,
             "owner": "rayford295",
             "repo": "rayford-knowledge-atlas",
@@ -716,11 +716,11 @@
             "id": 1242020720,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-08-31T16:24:30Z",
+            "last_commit": "2026-09-01T13:21:21Z",
             "open_issues": 0,
             "owner": "f-a8bfe3fa",
             "repo": "weread-notes",
-            "stars": 6,
+            "stars": 7,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:08.481Z"
@@ -1051,7 +1051,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T16:24:45.016Z",
+    "last_updated": "2026-09-01T13:43:18.614Z",
     "original_repository_info": {
       "archived": false,
       "description": "基于微信读书官方 Agent Skill 的二创项目精选 · Curated projects built on WeRead's official Agent Skill (released 2026-05-17)",
@@ -1059,11 +1059,11 @@
       "id": 1241612644,
       "language": "JavaScript",
       "license": "NOASSERTION",
-      "last_commit": "2026-08-31T04:49:38Z",
+      "last_commit": "2026-09-01T04:29:18Z",
       "open_issues": 3,
       "owner": "BENZEMA216",
       "repo": "awesome-weread",
-      "stars": 59,
+      "stars": 60,
       "topics": [
         "agent-skills",
         "awesome",
@@ -1077,7 +1077,7 @@
         "weread"
       ]
     },
-    "original_repository_sha": "23ec674ac635f21123f38509785a85682ec66f04",
+    "original_repository_sha": "c08e5b687828bbcf9d26b2917231abb0781faf91",
     "enhanced_repository": "enhansome/enhansome-weread",
     "enhanced_repository_description": null,
     "title": "Awesome WeRead Skills with stars"
