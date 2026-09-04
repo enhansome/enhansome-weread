@@ -135,7 +135,7 @@
             "open_issues": 1,
             "owner": "alchaincyf",
             "repo": "huashu-weread",
-            "stars": 144,
+            "stars": 145,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:08.481Z"
@@ -716,7 +716,7 @@
             "id": 1242020720,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-09-02T00:20:31Z",
+            "last_commit": "2026-09-04T03:43:17Z",
             "open_issues": 1,
             "owner": "f-a8bfe3fa",
             "repo": "weread-notes",
@@ -1051,7 +1051,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T13:02:16.417Z",
+    "last_updated": "2026-09-04T12:57:19.320Z",
     "original_repository_info": {
       "archived": false,
       "description": "基于微信读书官方 Agent Skill 的二创项目精选 · Curated projects built on WeRead's official Agent Skill (released 2026-05-17)",
@@ -1059,7 +1059,7 @@
       "id": 1241612644,
       "language": "JavaScript",
       "license": "NOASSERTION",
-      "last_commit": "2026-09-02T16:19:27Z",
+      "last_commit": "2026-09-04T10:57:59Z",
       "open_issues": 3,
       "owner": "BENZEMA216",
       "repo": "awesome-weread",
@@ -1077,7 +1077,7 @@
         "weread"
       ]
     },
-    "original_repository_sha": "f8ba53b69f4afbdeb3e43221140b2460614413b2",
+    "original_repository_sha": "87419f705bdfb545ecfbae5a522f26ec4ca94787",
     "enhanced_repository": "enhansome/enhansome-weread",
     "enhanced_repository_description": null,
     "title": "Awesome WeRead Skills with stars"
