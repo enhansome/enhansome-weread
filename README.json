@@ -156,7 +156,7 @@
             "open_issues": 0,
             "owner": "monsignorlaw1015",
             "repo": "weread-report",
-            "stars": 2,
+            "stars": 3,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:08.481Z"
@@ -626,7 +626,7 @@
             "id": 1221014679,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-31T17:41:49Z",
+            "last_commit": "2026-09-06T20:28:14Z",
             "open_issues": 0,
             "owner": "rayford295",
             "repo": "rayford-knowledge-atlas",
@@ -1051,7 +1051,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T12:22:52.582Z",
+    "last_updated": "2026-09-07T14:29:10.503Z",
     "original_repository_info": {
       "archived": false,
       "description": "基于微信读书官方 Agent Skill 的二创项目精选 · Curated projects built on WeRead's official Agent Skill (released 2026-05-17)",
@@ -1059,11 +1059,11 @@
       "id": 1241612644,
       "language": "JavaScript",
       "license": "NOASSERTION",
-      "last_commit": "2026-09-05T14:54:44Z",
+      "last_commit": "2026-09-07T12:04:27Z",
       "open_issues": 3,
       "owner": "BENZEMA216",
       "repo": "awesome-weread",
-      "stars": 60,
+      "stars": 61,
       "topics": [
         "agent-skills",
         "awesome",
@@ -1077,7 +1077,7 @@
         "weread"
       ]
     },
-    "original_repository_sha": "59634d89a033d14d5b0e5b65b2d2c15c5f686523",
+    "original_repository_sha": "dd0d045c0de3663add5909cf9a4ff32eb4cea972",
     "enhanced_repository": "enhansome/enhansome-weread",
     "enhanced_repository_description": null,
     "title": "Awesome WeRead Skills with stars"
