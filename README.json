@@ -135,7 +135,7 @@
             "open_issues": 1,
             "owner": "alchaincyf",
             "repo": "huashu-weread",
-            "stars": 149,
+            "stars": 151,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:08.481Z"
@@ -523,7 +523,7 @@
             "id": 1241253426,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-06T12:52:12Z",
+            "last_commit": "2026-09-21T10:33:55Z",
             "open_issues": 0,
             "owner": "ZhongJiaqi",
             "repo": "weread-to-obsidian",
@@ -1051,7 +1051,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T13:14:20.578Z",
+    "last_updated": "2026-09-21T15:21:45.096Z",
     "original_repository_info": {
       "archived": false,
       "description": "基于微信读书官方 Agent Skill 的二创项目精选 · Curated projects built on WeRead's official Agent Skill (released 2026-05-17)",
