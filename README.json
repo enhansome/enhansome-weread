@@ -261,7 +261,7 @@
             "open_issues": 0,
             "owner": "LearnPrompt",
             "repo": "carl-weread",
-            "stars": 27,
+            "stars": 28,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:08.481Z"
@@ -1051,7 +1051,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T13:53:19.474Z",
+    "last_updated": "2026-09-24T13:50:04.546Z",
     "original_repository_info": {
       "archived": false,
       "description": "基于微信读书官方 Agent Skill 的二创项目精选 · Curated projects built on WeRead's official Agent Skill (released 2026-05-17)",
@@ -1063,7 +1063,7 @@
       "open_issues": 3,
       "owner": "BENZEMA216",
       "repo": "awesome-weread",
-      "stars": 63,
+      "stars": 64,
       "topics": [
         "agent-skills",
         "awesome",
