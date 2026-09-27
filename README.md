@@ -82,7 +82,7 @@
 
 | 项目                                                                                                                      | 部署方式               | 介绍                                                  | 体验                                                                                                                                                          |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------ | --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [wong2/weread-mcp](https://github.com/wong2/weread-mcp) ⭐ 2 \| 🐛 0 \| 🌐 TypeScript \| 📅 2026-08-25                   | 远程 MCP             | 基于 Agent Gateway + Bearer 鉴权的远程 MCP 服务。             | [记录](docs/promo/runs/2026-05-25/wong2-weread-mcp/summary.md) · [产物](docs/promo/runs/2026-05-25/wong2-weread-mcp/artifacts/mcp-tools.json)                   |
+| [wong2/weread-mcp](https://github.com/wong2/weread-mcp) ⭐ 2 \| 🐛 1 \| 🌐 TypeScript \| 📅 2026-08-25                   | 远程 MCP             | 基于 Agent Gateway + Bearer 鉴权的远程 MCP 服务。             | [记录](docs/promo/runs/2026-05-25/wong2-weread-mcp/summary.md) · [产物](docs/promo/runs/2026-05-25/wong2-weread-mcp/artifacts/mcp-tools.json)                   |
 | [xJogger/weread-mcp-worker](https://github.com/xJogger/weread-mcp-worker) ⭐ 9 \| 🐛 0 \| 🌐 TypeScript \| 📅 2026-07-12 | Cloudflare Workers | 部署在 Cloudflare Workers 上的单用户 WeRead MCP，面向 ChatGPT。 | [记录](docs/promo/runs/2026-05-26/xJogger-weread-mcp-worker/summary.md) · [产物](docs/promo/runs/2026-05-26/xJogger-weread-mcp-worker/artifacts/mcp-tools.json) |
 
 ## 第三方同步
@@ -149,4 +149,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
