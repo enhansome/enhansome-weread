@@ -685,27 +685,6 @@
         },
         {
           "node_type": "item",
-          "title": "a3100821009/weread-to-notion",
-          "description": "Python, Notion 将微信读书的书架、划线、想法、阅读统计数据同步到 Notion。 记录 · 产物",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "微信读书",
-            "homepage": null,
-            "id": 1255962265,
-            "language": "HTML",
-            "license": null,
-            "last_commit": "2026-07-02T05:00:44Z",
-            "open_issues": 0,
-            "owner": "a3100821009",
-            "repo": "weread-to-notion",
-            "stars": 0,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:26:08.481Z"
-        },
-        {
-          "node_type": "item",
           "title": "f1603206034/weread-notes",
           "description": "GitHub + Notion / GitHub Actions 笔记同步到 GitHub repo + Notion 数据库，支持增量 / 全量 + 定时任务（GitHub Actions cron）。 记录 · 产物",
           "children": [],
@@ -1051,7 +1030,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:16:40.597Z",
+    "last_updated": "2026-10-03T13:57:32.725Z",
     "original_repository_info": {
       "archived": false,
       "description": "基于微信读书官方 Agent Skill 的二创项目精选 · Curated projects built on WeRead's official Agent Skill (released 2026-05-17)",
@@ -1060,7 +1039,7 @@
       "language": "JavaScript",
       "license": "NOASSERTION",
       "last_commit": "2026-10-02T12:12:40Z",
-      "open_issues": 3,
+      "open_issues": 4,
       "owner": "BENZEMA216",
       "repo": "awesome-weread",
       "stars": 64,
