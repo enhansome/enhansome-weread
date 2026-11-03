@@ -626,7 +626,7 @@
             "id": 1221014679,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-02T04:37:10Z",
+            "last_commit": "2026-11-02T20:29:34Z",
             "open_issues": 0,
             "owner": "rayford295",
             "repo": "rayford-knowledge-atlas",
@@ -1030,7 +1030,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T18:52:40.839Z",
+    "last_updated": "2026-11-03T16:38:46.015Z",
     "original_repository_info": {
       "archived": false,
       "description": "基于微信读书官方 Agent Skill 的二创项目精选 · Curated projects built on WeRead's official Agent Skill (released 2026-05-17)",
@@ -1038,7 +1038,7 @@
       "id": 1241612644,
       "language": "JavaScript",
       "license": "NOASSERTION",
-      "last_commit": "2026-11-02T15:16:07Z",
+      "last_commit": "2026-11-03T13:54:42Z",
       "open_issues": 4,
       "owner": "BENZEMA216",
       "repo": "awesome-weread",
@@ -1056,7 +1056,7 @@
         "weread"
       ]
     },
-    "original_repository_sha": "5c743d518eb1d748a1b413805cb371c664256fce",
+    "original_repository_sha": "6eb2cdf372d6a8e8fe5a186e7a109469ea476d7c",
     "enhanced_repository": "enhansome/enhansome-weread",
     "enhanced_repository_description": null,
     "title": "Awesome WeRead Skills with stars"
