@@ -122,7 +122,7 @@
 | [SpaceTrave1/weread-deep-insights](https://github.com/SpaceTrave1/weread-deep-insights) ⭐ 1 \| 🐛 0 \| 🌐 Python \| 📅 2026-10-13           | Web                | 「深度洞察」式阅读分析 —— 从书架 / 笔记里挖你的阅读 pattern。                                         | [记录](docs/promo/runs/2026-05-25/SpaceTrave1-weread-deep-insights/summary.md) · [截图](docs/promo/runs/2026-05-25/SpaceTrave1-weread-deep-insights/artifacts/weread_deep_report-screenshot.jpg)       |
 | [LoloChak/weread-golden-quotes](https://github.com/LoloChak/weread-golden-quotes) ⭐ 2 \| 🐛 0 \| 🌐 HTML \| 📅 2026-05-25                   | Python, Web        | 从微信读书笔记中提取金句，生成宣纸质感网页，每日随机展示并配思考问题。                                            | [记录](docs/promo/runs/2026-05-26/LoloChak-weread-golden-quotes/summary.md) · [截图](docs/promo/runs/2026-05-26/LoloChak-weread-golden-quotes/artifacts/daily-golden-quotes-fullpage.jpg)              |
 | [lucis-yg/weread-dashboard](https://github.com/lucis-yg/weread-dashboard) ⭐ 0 \| 🐛 0 \| 🌐 Vue \| 📅 2026-05-18                            | Vue 3 / Web        | 优雅的微信读书数据可视化 dashboard：书架 / 笔记 / 阅读统计。**配合 lucis-yg/weread-skill-api 使用**。     | [记录](docs/promo/runs/2026-05-25/lucis-yg-weread-dashboard/summary.md) · [产物](docs/promo/runs/2026-05-25/lucis-yg-weread-dashboard/artifacts/dashboard-preview.html)                                |
-| [ktKongTong/wereto](https://github.com/ktKongTong/wereto) ⭐ 0 \| 🐛 3 \| 🌐 TypeScript \| 📅 2026-08-04                                     | Cloudflare Workers | 一键部署到 Cloudflare 的阅读数据页 —— 公开个人阅读数据的「homepage」式展示。`fetch` + `ky` 简洁封装。         | [记录](docs/promo/runs/2026-05-26/ktKongTong-wereto/summary.md) · [截图](docs/promo/runs/2026-05-26/ktKongTong-wereto/artifacts/example-1.png)                                                         |
+| [ktKongTong/wereto](https://github.com/ktKongTong/wereto) ⭐ 0 \| 🐛 3 \| 🌐 TypeScript \| 📅 2026-11-22                                     | Cloudflare Workers | 一键部署到 Cloudflare 的阅读数据页 —— 公开个人阅读数据的「homepage」式展示。`fetch` + `ky` 简洁封装。         | [记录](docs/promo/runs/2026-05-26/ktKongTong-wereto/summary.md) · [截图](docs/promo/runs/2026-05-26/ktKongTong-wereto/artifacts/example-1.png)                                                         |
 
 ## 体验归档
 
@@ -149,4 +149,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
