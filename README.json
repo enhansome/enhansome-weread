@@ -670,7 +670,7 @@
             "open_issues": 0,
             "owner": "Yant2023",
             "repo": "weread-obsidian",
-            "stars": 2,
+            "stars": 1,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:08.481Z"
@@ -1043,7 +1043,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T19:44:19.175Z",
+    "last_updated": "2026-11-25T18:51:21.282Z",
     "original_repository_info": {
       "archived": false,
       "description": "基于微信读书官方 Agent Skill 的二创项目精选 · Curated projects built on WeRead's official Agent Skill (released 2026-05-17)",
@@ -1051,7 +1051,7 @@
       "id": 1241612644,
       "language": "JavaScript",
       "license": "NOASSERTION",
-      "last_commit": "2026-11-24T09:17:26Z",
+      "last_commit": "2026-11-25T07:51:37Z",
       "open_issues": 4,
       "owner": "BENZEMA216",
       "repo": "awesome-weread",
@@ -1069,7 +1069,7 @@
         "weread"
       ]
     },
-    "original_repository_sha": "63a54413af34230dece92effb2bc9d245e738523",
+    "original_repository_sha": "bc827e04cb88896f51f778730dc805cc62c17cc0",
     "enhanced_repository": "enhansome/enhansome-weread",
     "enhanced_repository_description": null,
     "title": "Awesome WeRead Skills with stars"
