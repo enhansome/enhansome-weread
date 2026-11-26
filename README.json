@@ -77,7 +77,7 @@
           "description": "跨 runtime 官方 Skill 的 Agent 优化版：CLI + 本地缓存 + 合并命令，针对 Agent 上下文预算调优。 记录 · 产物",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "微信读书官方 Skill 的 Agent 优化版，CLI 版，为 Agent 环境量身打造",
             "homepage": null,
             "id": 1241594485,
@@ -639,7 +639,7 @@
             "id": 1221014679,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-24T10:00:18Z",
+            "last_commit": "2026-11-26T07:06:53Z",
             "open_issues": 0,
             "owner": "rayford295",
             "repo": "rayford-knowledge-atlas",
@@ -1043,7 +1043,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T18:51:21.282Z",
+    "last_updated": "2026-11-26T18:40:17.274Z",
     "original_repository_info": {
       "archived": false,
       "description": "基于微信读书官方 Agent Skill 的二创项目精选 · Curated projects built on WeRead's official Agent Skill (released 2026-05-17)",
@@ -1051,7 +1051,7 @@
       "id": 1241612644,
       "language": "JavaScript",
       "license": "NOASSERTION",
-      "last_commit": "2026-11-25T07:51:37Z",
+      "last_commit": "2026-11-26T07:42:25Z",
       "open_issues": 4,
       "owner": "BENZEMA216",
       "repo": "awesome-weread",
@@ -1069,7 +1069,7 @@
         "weread"
       ]
     },
-    "original_repository_sha": "bc827e04cb88896f51f778730dc805cc62c17cc0",
+    "original_repository_sha": "46d37b7af1b976e87544a271a9061b94b7569803",
     "enhanced_repository": "enhansome/enhansome-weread",
     "enhanced_repository_description": null,
     "title": "Awesome WeRead Skills with stars"
